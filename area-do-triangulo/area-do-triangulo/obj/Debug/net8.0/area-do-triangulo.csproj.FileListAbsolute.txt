@@ -1,0 +1,14 @@
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\bin\Debug\net8.0\area-do-triangulo.exe
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\bin\Debug\net8.0\area-do-triangulo.deps.json
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\bin\Debug\net8.0\area-do-triangulo.runtimeconfig.json
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\bin\Debug\net8.0\area-do-triangulo.dll
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\bin\Debug\net8.0\area-do-triangulo.pdb
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\obj\Debug\net8.0\area-do-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\obj\Debug\net8.0\area-do-triangulo.AssemblyInfoInputs.cache
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\obj\Debug\net8.0\area-do-triangulo.AssemblyInfo.cs
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\obj\Debug\net8.0\area-do-triangulo.csproj.CoreCompileInputs.cache
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\obj\Debug\net8.0\area-do-triangulo.dll
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\obj\Debug\net8.0\refint\area-do-triangulo.dll
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\obj\Debug\net8.0\area-do-triangulo.pdb
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\obj\Debug\net8.0\area-do-triangulo.genruntimeconfig.cache
+C:\temp\projetos\area-do-triangulo\area-do-triangulo\obj\Debug\net8.0\ref\area-do-triangulo.dll

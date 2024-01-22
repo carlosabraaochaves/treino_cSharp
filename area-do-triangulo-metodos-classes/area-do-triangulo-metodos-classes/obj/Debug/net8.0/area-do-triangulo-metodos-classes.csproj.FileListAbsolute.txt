@@ -1,0 +1,14 @@
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\bin\Debug\net8.0\area-do-triangulo-metodos-classes.exe
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\bin\Debug\net8.0\area-do-triangulo-metodos-classes.deps.json
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\bin\Debug\net8.0\area-do-triangulo-metodos-classes.runtimeconfig.json
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\bin\Debug\net8.0\area-do-triangulo-metodos-classes.dll
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\bin\Debug\net8.0\area-do-triangulo-metodos-classes.pdb
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\obj\Debug\net8.0\area-do-triangulo-metodos-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\obj\Debug\net8.0\area-do-triangulo-metodos-classes.AssemblyInfoInputs.cache
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\obj\Debug\net8.0\area-do-triangulo-metodos-classes.AssemblyInfo.cs
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\obj\Debug\net8.0\area-do-triangulo-metodos-classes.csproj.CoreCompileInputs.cache
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\obj\Debug\net8.0\area-do-triangulo-metodos-classes.dll
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\obj\Debug\net8.0\refint\area-do-triangulo-metodos-classes.dll
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\obj\Debug\net8.0\area-do-triangulo-metodos-classes.pdb
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\obj\Debug\net8.0\area-do-triangulo-metodos-classes.genruntimeconfig.cache
+C:\temp\projetos\area-do-triangulo-metodos-classes\area-do-triangulo-metodos-classes\obj\Debug\net8.0\ref\area-do-triangulo-metodos-classes.dll

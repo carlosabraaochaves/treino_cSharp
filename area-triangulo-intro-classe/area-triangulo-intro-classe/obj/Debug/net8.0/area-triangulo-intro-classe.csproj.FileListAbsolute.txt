@@ -1,0 +1,14 @@
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\bin\Debug\net8.0\area-triangulo-intro-classe.exe
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\bin\Debug\net8.0\area-triangulo-intro-classe.deps.json
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\bin\Debug\net8.0\area-triangulo-intro-classe.runtimeconfig.json
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\bin\Debug\net8.0\area-triangulo-intro-classe.dll
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\bin\Debug\net8.0\area-triangulo-intro-classe.pdb
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\obj\Debug\net8.0\area-triangulo-intro-classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\obj\Debug\net8.0\area-triangulo-intro-classe.AssemblyInfoInputs.cache
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\obj\Debug\net8.0\area-triangulo-intro-classe.AssemblyInfo.cs
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\obj\Debug\net8.0\area-triangulo-intro-classe.csproj.CoreCompileInputs.cache
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\obj\Debug\net8.0\area-triangulo-intro-classe.dll
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\obj\Debug\net8.0\refint\area-triangulo-intro-classe.dll
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\obj\Debug\net8.0\area-triangulo-intro-classe.pdb
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\obj\Debug\net8.0\area-triangulo-intro-classe.genruntimeconfig.cache
+C:\temp\projetos\area-triangulo-intro-classe\area-triangulo-intro-classe\obj\Debug\net8.0\ref\area-triangulo-intro-classe.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\program2\program2\bin\Debug\net8.0\program2.exe
+C:\temp\projetos\program2\program2\bin\Debug\net8.0\program2.deps.json
+C:\temp\projetos\program2\program2\bin\Debug\net8.0\program2.runtimeconfig.json
+C:\temp\projetos\program2\program2\bin\Debug\net8.0\program2.dll
+C:\temp\projetos\program2\program2\bin\Debug\net8.0\program2.pdb
+C:\temp\projetos\program2\program2\obj\Debug\net8.0\program2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\program2\program2\obj\Debug\net8.0\program2.AssemblyInfoInputs.cache
+C:\temp\projetos\program2\program2\obj\Debug\net8.0\program2.AssemblyInfo.cs
+C:\temp\projetos\program2\program2\obj\Debug\net8.0\program2.csproj.CoreCompileInputs.cache
+C:\temp\projetos\program2\program2\obj\Debug\net8.0\program2.dll
+C:\temp\projetos\program2\program2\obj\Debug\net8.0\refint\program2.dll
+C:\temp\projetos\program2\program2\obj\Debug\net8.0\program2.pdb
+C:\temp\projetos\program2\program2\obj\Debug\net8.0\program2.genruntimeconfig.cache
+C:\temp\projetos\program2\program2\obj\Debug\net8.0\ref\program2.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\bin\Debug\net8.0\programa-estoque-produtos.exe
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\bin\Debug\net8.0\programa-estoque-produtos.deps.json
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\bin\Debug\net8.0\programa-estoque-produtos.runtimeconfig.json
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\bin\Debug\net8.0\programa-estoque-produtos.dll
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\bin\Debug\net8.0\programa-estoque-produtos.pdb
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\obj\Debug\net8.0\programa-estoque-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\obj\Debug\net8.0\programa-estoque-produtos.AssemblyInfoInputs.cache
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\obj\Debug\net8.0\programa-estoque-produtos.AssemblyInfo.cs
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\obj\Debug\net8.0\programa-estoque-produtos.csproj.CoreCompileInputs.cache
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\obj\Debug\net8.0\programa-estoque-produtos.dll
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\obj\Debug\net8.0\refint\programa-estoque-produtos.dll
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\obj\Debug\net8.0\programa-estoque-produtos.pdb
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\obj\Debug\net8.0\programa-estoque-produtos.genruntimeconfig.cache
+C:\temp\projetos\programa-estoque-produtos\programa-estoque-produtos\obj\Debug\net8.0\ref\programa-estoque-produtos.dll
