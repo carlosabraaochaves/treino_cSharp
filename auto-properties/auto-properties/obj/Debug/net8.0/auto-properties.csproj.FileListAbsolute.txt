@@ -1,0 +1,15 @@
+C:\temp\projetos\auto-properties\auto-properties\bin\Debug\net8.0\auto-properties.exe
+C:\temp\projetos\auto-properties\auto-properties\bin\Debug\net8.0\auto-properties.deps.json
+C:\temp\projetos\auto-properties\auto-properties\bin\Debug\net8.0\auto-properties.runtimeconfig.json
+C:\temp\projetos\auto-properties\auto-properties\bin\Debug\net8.0\auto-properties.dll
+C:\temp\projetos\auto-properties\auto-properties\bin\Debug\net8.0\auto-properties.pdb
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\auto-properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\auto-properties.AssemblyInfoInputs.cache
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\auto-properties.AssemblyInfo.cs
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\auto-properties.csproj.CoreCompileInputs.cache
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\auto-properties.sourcelink.json
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\auto-properties.dll
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\refint\auto-properties.dll
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\auto-properties.pdb
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\auto-properties.genruntimeconfig.cache
+C:\temp\projetos\auto-properties\auto-properties\obj\Debug\net8.0\ref\auto-properties.dll
